@@ -1,0 +1,2 @@
+# Volatility-Smiles-and-Stylized-Facts-in-the-Heston-Model
+n this project, the Black-Scholes and Heston model are observed. Option pricing(call option), simulations, Implied Volatility Smile and some stylized facts are presented here. In the Black-Scholes model, it is assumed that the volatility is constant, while the Heston model allows the stochastic volatility, which performs better than BS model.
